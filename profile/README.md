@@ -55,7 +55,7 @@ Wir arbeiten mit modernen Static Site Generators, JAMstack-Architektur, interakt
 **Region:** Aachen, Baesweiler, Nordrhein-Westfalen  
 **Website:** [www.webcommits.info](https://www.webcommits.info)  
 **E-Mail:** info@webcommits.info  
-**Telefon:** +49 2401 7098310
+**Telefon:** +49 1520 7282881
 
 ---
 
